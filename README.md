@@ -126,7 +126,8 @@ Valdir Sales
 🎥 YouTube: **[Programando com Valdir](https://www.youtube.com/@ProgramandoComValdir)**  
 📸 Instagram: **[@programandocomvaldir](https://www.instagram.com/programandocomvaldir)**  
 💼 LinkedIn: **[Valdir Barboza Sales](https://www.linkedin.com/in/valdir-barboza-sales-266b54160)**  
-   
+📱 WhatsApp: **[Clique para conversar](https://wa.me/5541985360244)**
+
 📌 Projeto desenvolvido para fins educacionais e portfólio profissional.
 
 ----
