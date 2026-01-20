@@ -51,12 +51,18 @@ de um **portfólio atrativo para recrutadores**.
 ### 🗂️ Estrutura do projeto
 
 📁 src
-├── Moeda.java // Classe abstrata
-├── Real.java // Moeda Real
-├── Dolar.java // Moeda Dólar
-├── Euro.java // Moeda Euro
-├── Cofrinho.java // Lógica principal do cofrinho
-└── Principal.java // Menu e execução do programa
+
+  ├── Moeda.java // Classe abstrata
+
+  ├── Real.java // Moeda Real
+
+  ├── Dolar.java // Moeda Dólar
+
+  ├── Euro.java // Moeda Euro
+
+  ├── Cofrinho.java // Lógica principal do cofrinho
+
+  └── Principal.java // Menu e execução do programa
 
 
 ---
@@ -79,6 +85,7 @@ javac src/*.java
 ```
 java src.Principal
 ```
+
 ---
 ## 🎯 Objetivo profissional
 
@@ -114,11 +121,11 @@ Valdir Sales
 
 💻 Java | POO | Em constante aprendizado
 
-    🎥 YouTube: **[Programando com Valdir](https://www.youtube.com/@ProgramandoComValdir)**
-    
-    📸 Instagram: **[@programandocomvaldir](https://www.instagram.com/programandocomvaldir)**
-    
-    💼 LinkedIn: **[valdir-barboza-sales](https://www.linkedin.com/in/valdir-barboza-sales-266b54160)**
+## 🌐 Conecte-se comigo
+
+🎥 YouTube: **[Programando com Valdir](https://www.youtube.com/@ProgramandoComValdir)**  
+📸 Instagram: **[@programandocomvaldir](https://www.instagram.com/programandocomvaldir)**  
+💼 LinkedIn: **[Valdir Barboza Sales](https://www.linkedin.com/in/valdir-barboza-sales-266b54160)**  
    
 📌 Projeto desenvolvido para fins educacionais e portfólio profissional.
 
